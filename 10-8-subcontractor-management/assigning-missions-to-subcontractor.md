@@ -5,7 +5,7 @@ The new subcontractor user can now access the application and perform their task
 1. Open the Nomadia Delivery application and go to the Missions tab.
 2. Select the missions you want to assign from the mission table, click the Actions button, and choose Assign to subcontractor.
 
-![](<../.gitbook/assets/SubcontractorManagement_AssigningMissionsToSubcontractor_001_EN.png>)
+![](<../gitbook/assets/SubcontractorManagement_AssigningMissionsToSubcontractor_001_EN.png>)
 
 3. From the list, select the desired subcontractor to allocate the missions and click Apply.
 
