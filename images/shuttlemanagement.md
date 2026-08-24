@@ -22,7 +22,7 @@ Steps for initial setup:
 
 2. Tap on **shuttle**.
 
-   ![Shuttle Menu – Accessing the shuttle management section.](../images/shuttlemanagement-shuttlemanagement_timestamp_0_to_10_to_0_to_18.gif "Shuttle Menu – Accessing the shuttle management section.")
+   ![Shuttle Menu – Accessing the shuttle management section.](./images/shuttlemanagement-shuttlemanagement_timestamp_0_to_10_to_0_to_18.gif "Shuttle Menu – Accessing the shuttle management section.")
 
 ### Feature Overview
 
